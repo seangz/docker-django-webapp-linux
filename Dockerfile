@@ -1,5 +1,5 @@
 
-FROM python:3.4
+FROM python:3.10.13
 
 RUN mkdir /code
 WORKDIR /code
